@@ -46,7 +46,7 @@ The system is divided into modular components:
 
 ## ⚙️ How It Works
 
-1. ESP32 connects to WiFi  
+1. ESP32 connects to WiFi (Local host with add WiFi name and password)
 2. Starts HTTP server  
 3. User opens IP in browser  
 4. Sends command  
