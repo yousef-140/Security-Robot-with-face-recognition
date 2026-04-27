@@ -3,8 +3,8 @@
 #include "esp_http_server.h"
 #include "fd_forward.h"
 
-const char* ssid     = "rovy2";
-const char* password = "01004898974";
+const char* ssid     = "****";
+const char* password = "****";
 
 #define PWDN_GPIO_NUM     32
 #define RESET_GPIO_NUM    -1
