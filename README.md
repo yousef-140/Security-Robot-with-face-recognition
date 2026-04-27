@@ -73,6 +73,4 @@ The system is divided into modular components:
 
 ---
 
-## 🧑‍💻 Author
-
-Yousef Reda
+## Matrix Team 🤖
